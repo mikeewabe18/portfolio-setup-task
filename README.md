@@ -18,7 +18,7 @@ I attempted to install the tools as instructed, but ran into some limitations:
 3. ✅ Set up this README file
 4. ✅ Learning how to use GitHub
 
-Unfortunately, I couldn't complete steps 2-5 due to the computer limitations I mentioned.
+Unfortunately, I couldn't complete some of the steps due to the computer limitations I mentioned.
 
 ## The Challenges I Faced
 
@@ -39,9 +39,12 @@ As soon as I get access to my own computer or device, I'm going to:
 2. Add the Claude Code and Codex add-ons
 3. Continue with the rest of the project
 
-I'm committed to completing this and showing what I can do!
+I’m focused on continuing this process and demonstrating my skills through the work.
 
 ---
 
-*100Hires Portfolio Project - Step 1*
-*Completed: June 8, 2026
+100Hires Portfolio Project
+
+Date: June 8, 2026
+
+Status: In Progress
