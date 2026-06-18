@@ -1,5 +1,5 @@
 # portfolio-setup-task
-Repository documenting the setup process for AI development tools
+Repository for my attempt at the 100Hires setup task setup process
 # 100Hires Portfolio Project
 
 ## Tools I Tried to Install
